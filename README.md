@@ -1,4 +1,4 @@
-# Practica_2_con_libreria_pandas
+# Practica_2_con_libreria_pandas_Alura_Latam
 Practica de la liberia Pandas para cargar archivos csv con codificado en iso-8859-1, separado con ;, con tres filas antes de la tabla y 9 filas luego de la tabla que se deben eliminar.
 
 ## 🛠️ Herramientas utilizadas:
