@@ -20,7 +20,7 @@ Practica de la liberia Pandas para cargar archivos csv con codificado en iso-885
 - Descarga el archivo .ipynb
 - Inicia sesion con tu cuenta de Gmail
 - Abre Google Colab en https://colab.google/
-- Presiona Opoen Colab
+- Presiona Open Colab
 - Luego la pestaña subir
 - Sube el archivo .ipynb
 - Ejecuta las celdas en orden desde la primera hasta la ultima
